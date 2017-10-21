@@ -2,7 +2,7 @@
 
 These data are the street localities from the [Geocoded National Address File (G-NAF)](https://data.gov.au/dataset/geocoded-national-address-file-g-naf) that have a geolocation.
 
-The dataset hace been released under an End User Licence Agreement (EULA) based on the Creative Commons Attribution 4.0 International license (CC BY 4.0).
+The dataset have been released under an End User Licence Agreement (EULA) based on the Creative Commons Attribution 4.0 International license (CC BY 4.0).
 
 The EULA requires the following attribution:
 
